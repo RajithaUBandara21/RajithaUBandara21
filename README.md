@@ -4,10 +4,6 @@ Welcome to my GitHub profile! I'm an undergraduate from the Faculty of Informati
 
 ## About Me
 
-I am currently pursuing my BSc(Hons) in Information Technology at the University of Moratuwa (Expected Graduation: 2026). I approach challenges with a creative mindset and continuously seek innovative solutions to succeed. I thrive in teamwork and enjoy fostering a positive atmosphere, contributing effectively to the success of any team.
-
-## About Me
-
 - 🔭 **Currently reading:** BSc(Hons) in Information Technology at the University of Moratuwa (Expected Graduation: 2026).
 - 🌱 **I am passionate about:** Full-stack development and software engineering.
 - 💬 **Ask me about:** Web development, React, Node.js, and everything in between.
