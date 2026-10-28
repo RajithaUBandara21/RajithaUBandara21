@@ -1,20 +1,32 @@
 ## Rajitha Bandara
 
-Software Engineer based in Colombo, Sri Lanka. I mostly work on backend systems with Java and Spring Boot, and build frontends with React and Next.js.
+Software Engineer · Colombo
 
-Previously a Software Engineer Intern at Sharemind, working on React Native apps and .NET APIs. BSc (Hons) in IT from the University of Moratuwa.
+I'm a Software Engineer focused on building production oriented software and AI systems that are designed to work beyond the development environment.
 
-[Portfolio](https://rajithabandara.dev) · [LinkedIn](https://www.linkedin.com/in/rajithaubandara/) · [Medium](https://medium.com/@rajithaubandara) · [Email](mailto:rajithaubandara@gmail.com)
+My experience spans backend engineering, distributed systems, front end engineering, cloud native applications, DevOps, and machine learning, with a focus on how systems behave under real world constraints such as scalability, reliability, performance, cost, and failure.
+
+My goal is to build systems that are measurable, maintainable, scalable, and production ready, not simply applications that work on my machine.
 
 ### Projects
 
-- [e-commerce-app](https://github.com/RajithaUBandara21/e-commerce-app): multi-vendor marketplace built from Spring Boot microservices, with a Kafka checkout saga and Keycloak auth
-- [erp-bf](https://github.com/RajithaUBandara21/erp-bf): multi-tenant SaaS ERP on Spring Boot 4 and Next.js 16 (in progress)
-- [Local-llm](https://github.com/RajithaUBandara21/Local-llm): offline email triage assistant using local LLMs through Ollama
-- [e-com-app-ci-shared-library](https://github.com/RajithaUBandara21/e-com-app-ci-shared-library): Jenkins shared library for microservice CI/CD on AWS
+- [Multi-Vendor E-Commerce Platform](https://github.com/RajithaUBandara21/e-commerce-app): Spring Boot microservices, Kafka, Keycloak, Next.js
+- [Multi-Tenant SaaS ERP](https://github.com/RajithaUBandara21/erp-bf): Spring Boot 4, Spring Security, PostgreSQL, Next.js
+- [Offline LLM Email Triage Assistant](https://github.com/RajithaUBandara21/Local-llm): Python, FastAPI, Ollama
+- [Jenkins CI/CD Shared Library](https://github.com/RajithaUBandara21/e-com-app-ci-shared-library): Jenkins, Groovy, AWS, SonarQube
 
-### Stack
+### Experience
 
-Java, Spring Boot, Spring Cloud, Kafka, PostgreSQL, Redis, React, Next.js, TypeScript, Docker, Jenkins, AWS
+Software Engineer Intern, Sharemind · 2025
 
-I'm open to Software Engineer roles.
+### Education
+
+BSc (Hons) in Information Technology, University of Moratuwa
+
+### Tools
+
+Java, Spring Boot, .NET, TypeScript, React, Next.js, PostgreSQL, MongoDB, Redis, Docker, Kafka, AWS
+
+---
+
+[rajithabandara.dev](https://rajithabandara.dev) · [linkedin](https://www.linkedin.com/in/rajithaubandara/) · [medium](https://medium.com/@rajithaubandara) · [email](mailto:rajithaubandara@gmail.com)
